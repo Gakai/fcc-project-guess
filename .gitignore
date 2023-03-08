@@ -1,0 +1,2 @@
+*.sh
+!number_guess.sh
